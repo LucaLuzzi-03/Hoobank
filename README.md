@@ -11,5 +11,5 @@ Finalmente conseguí una página web completamente responsive, funcional y lista
 
 ## Tecnologías
 
-Las tecnologías utilizadas para contruir este proyecto fueron: HTML, CSS,, Tailwind CSS, Javascript y React.js.
+Las tecnologías utilizadas para contruir este proyecto fueron: HTML, CSS, Tailwind CSS, Javascript y React.js.
 
